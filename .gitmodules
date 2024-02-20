@@ -7,3 +7,6 @@
 [submodule "catkin_ws/src/turtlebot3_simulations"]
 	path = catkin_ws/src/turtlebot3_simulations
 	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations
+[submodule "catkin_ws/src/pgm_map_creator"]
+	path = catkin_ws/src/pgm_map_creator
+	url = https://github.com/ismailkoch492/pgm_map_creator.git
