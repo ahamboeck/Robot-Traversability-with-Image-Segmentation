@@ -1,0 +1,9 @@
+[submodule "catkin_ws/src/gazebo_ros_pkgs"]
+	path = catkin_ws/src/gazebo_ros_pkgs
+	url = https://github.com/ros-simulation/gazebo_ros_pkgs
+[submodule "catkin_ws/src/m-explore"]
+	path = catkin_ws/src/m-explore
+	url = https://github.com/hrnr/m-explore
+[submodule "catkin_ws/src/turtlebot3_simulations"]
+	path = catkin_ws/src/turtlebot3_simulations
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations
