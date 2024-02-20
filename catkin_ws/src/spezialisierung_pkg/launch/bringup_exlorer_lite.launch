@@ -1,0 +1,16 @@
+<launch>
+    <include file="$(find spezialisierung_pkg)/launch/bringup_gazebo.launch">
+    </include>
+    
+    <include file="$(find spezialisierung_pkg)/launch/bringup_rviz.launch">
+    </include>
+
+    <include file="$(find spezialisierung_pkg)/launch/bringup_slam.launch">
+    </include>
+
+    <include file="$(find spezialisierung_pkg)/launch/bringup_move_base.launch">
+    </include>
+    
+    <include file="$(find explore_lite)/launch/explore.launch">
+    </include>
+</launch>

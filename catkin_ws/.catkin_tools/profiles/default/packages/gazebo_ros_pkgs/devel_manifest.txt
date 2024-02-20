@@ -1,0 +1,2 @@
+gazebo_ros_pkgs/gazebo_ros_pkgs
+/home/ahamboeck/local_git/Robot-Traversability-with-Image-Segmentation/catkin_ws/devel/.private/gazebo_ros_pkgs/cmake.lock /home/ahamboeck/local_git/Robot-Traversability-with-Image-Segmentation/catkin_ws/devel/./cmake.lock
