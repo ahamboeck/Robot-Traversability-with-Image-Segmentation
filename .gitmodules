@@ -10,3 +10,9 @@
 [submodule "catkin_ws/src/pgm_map_creator"]
 	path = catkin_ws/src/pgm_map_creator
 	url = https://github.com/ismailkoch492/pgm_map_creator.git
+[submodule "utils/ros_map_editor"]
+	path = utils/ros_map_editor
+	url = https://github.com/TheOnceAndFutureSmalltalker/ros_map_editor.git
+[submodule "catkin_ws/src/turtlebot3_gazebo_plugin"]
+	path = catkin_ws/src/turtlebot3_gazebo_plugin
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_gazebo_plugin
