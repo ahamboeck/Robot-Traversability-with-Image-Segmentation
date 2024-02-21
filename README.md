@@ -37,3 +37,14 @@ To-do:
 - Create a custom world with textured ground (grass, gravel, water, asphalt)
 - Extract ground truth maps with the pgm package
 
+### 22.02.2024
+Accomplished:
+- Clean up github
+- Create map from gazebo world
+- Improve explorer package
+
+To-do:
+- Add virtual camera for gazebo
+- Extract video stream
+- Create a custom world with textured ground (grass, gravel, water, asphalt)
+- Check if the gazebo to pgm converter creates correct maps (resolution etc.)
