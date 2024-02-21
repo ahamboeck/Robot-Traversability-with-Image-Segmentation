@@ -4,11 +4,12 @@ This project was developed as part of a course at UAS Technikum Wien.
 ## Getting Started
 
 ### Dependencies
-- ROS Noetic
+- ROS noetic
 - Ubuntu 20.04
-- Gazebo (Version?)
-- Boost (Version?)
-- Protobuff (Version?)
+- Gazebo 11.11.0
+- Boost 1.71
+- C++14
+- Protobuff 3.6.1
 
 ### Installing
 In construction...

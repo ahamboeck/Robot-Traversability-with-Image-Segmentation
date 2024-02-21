@@ -1,0 +1,16 @@
+<launch>
+    <include file="$(find robot_traversibility_and_explorer)/launch/bringup_gazebo.launch">
+    </include>
+    
+    <include file="$(find robot_traversibility_and_explorer)/launch/bringup_rviz.launch">
+    </include>
+
+    <include file="$(find robot_traversibility_and_explorer)/launch/bringup_slam.launch">
+    </include>
+
+    <include file="$(find sprobot_traversibility_and_explorerezialisierung_pkg)/launch/bringup_move_base.launch">
+    </include>
+    
+    <include file="$(find explore_lite)/launch/explore.launch">
+    </include>
+</launch>
