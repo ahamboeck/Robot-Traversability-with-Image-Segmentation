@@ -1,5 +1,6 @@
 catkin_ws/src/CMakeLists.txt
 catkin_ws/src/.vscode
+catkin_ws/.vscode
 catkin_ws/.catkin_tools
 .catkin_workspace
 devel/
