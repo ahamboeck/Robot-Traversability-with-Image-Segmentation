@@ -16,3 +16,6 @@
 [submodule "catkin_ws/src/turtlebot3_gazebo_plugin"]
 	path = catkin_ws/src/turtlebot3_gazebo_plugin
 	url = https://github.com/ROBOTIS-GIT/turtlebot3_gazebo_plugin
+[submodule "catkin_ws/src/turtlebot3"]
+	path = catkin_ws/src/turtlebot3
+	url = https://github.com/ROBOTIS-GIT/turtlebot3
