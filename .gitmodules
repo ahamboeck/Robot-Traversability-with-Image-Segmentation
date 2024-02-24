@@ -9,7 +9,7 @@
 	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations
 [submodule "catkin_ws/src/pgm_map_creator"]
 	path = catkin_ws/src/pgm_map_creator
-	url = https://github.com/ismailkoch492/pgm_map_creator.git
+	url = https://github.com/ahamboeck/pgm_map_creator
 [submodule "utils/ros_map_editor"]
 	path = utils/ros_map_editor
 	url = https://github.com/TheOnceAndFutureSmalltalker/ros_map_editor.git
