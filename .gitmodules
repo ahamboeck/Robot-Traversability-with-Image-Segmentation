@@ -1,12 +1,12 @@
 [submodule "catkin_ws/src/gazebo_ros_pkgs"]
 	path = catkin_ws/src/gazebo_ros_pkgs
-	url = https://github.com/ros-simulation/gazebo_ros_pkgs
+	url = https://github.com/ahamboeck/gazebo_ros_pkgs
 [submodule "catkin_ws/src/m-explore"]
 	path = catkin_ws/src/m-explore
-	url = https://github.com/hrnr/m-explore
+	url = https://github.com/ahamboeck/m-explore
 [submodule "catkin_ws/src/turtlebot3_simulations"]
 	path = catkin_ws/src/turtlebot3_simulations
-	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations
+	url = https://github.com/ahamboeck/turtlebot3_simulations
 [submodule "catkin_ws/src/pgm_map_creator"]
 	path = catkin_ws/src/pgm_map_creator
 	url = https://github.com/ahamboeck/pgm_map_creator
@@ -15,7 +15,7 @@
 	url = https://github.com/TheOnceAndFutureSmalltalker/ros_map_editor.git
 [submodule "catkin_ws/src/turtlebot3_gazebo_plugin"]
 	path = catkin_ws/src/turtlebot3_gazebo_plugin
-	url = https://github.com/ROBOTIS-GIT/turtlebot3_gazebo_plugin
+	url = https://github.com/ahamboeck/turtlebot3_gazebo_plugin
 [submodule "catkin_ws/src/turtlebot3"]
 	path = catkin_ws/src/turtlebot3
-	url = https://github.com/ROBOTIS-GIT/turtlebot3
+	url = https://github.com/ahamboeck/turtlebot3
