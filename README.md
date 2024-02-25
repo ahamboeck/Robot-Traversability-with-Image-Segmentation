@@ -54,6 +54,7 @@ Accomplished:
 - Link submodules to forked repository
 - Add virtual camera for gazebo
 - Get video stream via ros topic
+- Add new maps for exploration
 
 To-do:
 - Create a custom world with textured ground (grass, gravel, water, asphalt)
