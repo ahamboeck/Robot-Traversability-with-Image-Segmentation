@@ -48,3 +48,13 @@ To-do:
 - Extract video stream
 - Create a custom world with textured ground (grass, gravel, water, asphalt)
 - Check if the gazebo to pgm converter creates correct maps (resolution etc.)
+
+### 25.02.2024
+Accomplished:
+- Link submodules to forked repository
+- Add virtual camera for gazebo
+- Get video stream via ros topic
+
+To-do:
+- Create a custom world with textured ground (grass, gravel, water, asphalt)
+- Check if the gazebo to pgm converter creates correct maps (resolution etc.)
