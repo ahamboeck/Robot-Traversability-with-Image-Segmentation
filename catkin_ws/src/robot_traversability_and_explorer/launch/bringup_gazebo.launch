@@ -5,7 +5,7 @@
   <arg name="z_pos" default="0.0"/>
 
   <include file="/home/ahamboeck/local_git/Robot-Traversability-with-Image-Segmentation/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros/launch/empty_world.launch">
-    <arg name="world_name" value="/home/ahamboeck/local_git/Robot-Traversability-with-Image-Segmentation/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/worlds/turtlebot3_house.world"/>
+    <arg name="world_name" value="/home/ahamboeck/local_git/Robot-Traversability-with-Image-Segmentation/catkin_ws/src/gazebo_models_worlds_collection/worlds/powerplant.world"/>
     <arg name="paused" value="false"/>
     <arg name="use_sim_time" value="true"/>
     <arg name="gui" value="true"/>
