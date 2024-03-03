@@ -3,7 +3,7 @@
 	url = https://github.com/ahamboeck/gazebo_ros_pkgs
 [submodule "catkin_ws/src/m-explore"]
 	path = catkin_ws/src/m-explore
-	url = https://github.com/ahamboeck/m-explore
+	url = git@github.com:ahamboeck/m-explore.git
 [submodule "catkin_ws/src/turtlebot3_simulations"]
 	path = catkin_ws/src/turtlebot3_simulations
 	url = https://github.com/ahamboeck/turtlebot3_simulations
