@@ -59,3 +59,18 @@ Accomplished:
 To-do:
 - Create a custom world with textured ground (grass, gravel, water, asphalt)
 - Check if the gazebo to pgm converter creates correct maps (resolution etc.)
+
+### 03.03.2024
+Accomplished:
+- Add model with low friction to gazebo map
+- Rotate camera
+- Remap local_costmap
+
+To-do:
+- Manipulate local_costmap and check for results
+- Check if odometry can mess up the mapping process due to slipping
+- Create node that publishes a % of the ground truth map explored by the explorer
+- Train model on custom dataset
+- Add model for grass in gazebo
+- Create a custom world with textured ground (grass, gravel, water, asphalt)
+- Check if the gazebo to pgm converter creates correct maps (resolution etc.)
