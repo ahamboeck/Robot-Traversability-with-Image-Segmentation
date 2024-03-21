@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T13:47:40.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="msAzG49JlIy2PLIkUrcP" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T13:47:47.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Ze9YQudxuDgVSWVTm_5B" version="24.0.7" type="github">
   <diagram name="Seite-1" id="FtbAKaaol-ACAXjwSM5C">
     <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="nl_c7YcEutgdqIVv1zfj-13" value="Pixel-Wise-Segmentation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="432" y="459" width="111.5" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="nl_c7YcEutgdqIVv1zfj-18" value="Image Segmentation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="nl_c7YcEutgdqIVv1zfj-18" value="Image Segmentation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="405" y="422" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nl_c7YcEutgdqIVv1zfj-19" value="Segmented Output Image" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
